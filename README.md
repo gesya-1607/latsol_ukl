@@ -27,3 +27,7 @@ Proyek ini dikembangkan sebagai bagian dari **latihan dan evaluasi kesiapan UKL*
 
 4. **Keamanan**
    - Semua endpoint presensi dilindungi dengan **token autentikasi (Bearer Token)**.
+  
+file foto
+![login](<img width="710" height="647" alt="Screenshot 2025-11-04 175747" src="https://github.com/user-attachments/assets/8befd691-959c-4622-bc7a-5a484776517c" />)
+![tambah pengguna](<img width="701" height="743" alt="Screenshot 2025-11-04 174626" src="https://github.com/user-attachments/assets/d67e0587-82c0-408a-b991-a84b6b2e7c1b" />)
